@@ -12,7 +12,7 @@
 - **Techs( Framework )** </br>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"></a>&nbsp;
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black"/></a>&nbsp;
 - **Tools**  </br>
@@ -29,3 +29,4 @@
  
 ### :clipboard: GitHub Stats
 ![Jung-Hyeonsu's github stats](https://github-readme-stats.vercel.app/api?username=Jung-HyeonSu&show_icons=true&theme=graywhite)
+
