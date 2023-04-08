@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp;
 - **OS**  </br>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/-Linux-grey?logo=linux"/></a>&nbsp;
  
 ### :clipboard: GitHub Stats
 ![Jung-Hyeonsu's github stats](https://github-readme-stats.vercel.app/api?username=Jung-HyeonSu&show_icons=true&theme=graywhite)
