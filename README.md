@@ -1,7 +1,7 @@
 <h1><div align="center">Jung-HyeonSu 👋 </div></h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jung-Hyeonsu&label=PROFILE+VIEWS" alt="Jung-Hyeonsu"> 
 
-#### :computer: Tech Stack
+### :computer: Tech Stack
 - **Languages** </br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp;
@@ -28,5 +28,5 @@
 <img src="https://img.shields.io/badge/-Linux-grey?logo=linux"/></a>&nbsp;
  
 ### :clipboard: GitHub Stats
-![Jung-Hyeonsu's github stats](https://github-readme-stats.vercel.app/api?username=Jung-HyeonSu&show_icons=true&theme=graywhite)
+![Jung-HyeonSu's github stats](https://github-readme-stats.vercel.app/api?username=Jung-HyeonSu&show_icons=true&theme=graywhite)
 
