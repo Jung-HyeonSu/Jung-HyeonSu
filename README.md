@@ -27,6 +27,4 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/-Linux-grey?logo=linux"/></a>&nbsp;
  
-### :clipboard: GitHub Stats
-![Jung-HyeonSu's github stats](https://github-readme-stats.vercel.app/api?username=Jung-HyeonSu&show_icons=true&theme=graywhite)
 
