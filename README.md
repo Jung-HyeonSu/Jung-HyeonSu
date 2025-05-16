@@ -1,7 +1,6 @@
 <h1><div align="center">Jung-HyeonSu 👋 </div></h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jung-Hyeonsu&label=PROFILE+VIEWS" alt="Jung-Hyeonsu"> 
 
-<div align="center">
 ### :computer: Tech Stack
 - **Front End** </br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,5 +29,5 @@
 - **OS**  </br>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
- </div>
+
 
