@@ -1,4 +1,4 @@
-<h1><div align="center">Jung-HyeonSu 👋 </div></h1>
+<h1><div align="center">HyeonSu 👋 </div></h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jung-Hyeonsu&label=PROFILE+VIEWS" alt="Jung-Hyeonsu"> 
 
 <div align="center">
