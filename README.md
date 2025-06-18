@@ -36,5 +36,5 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gustn05233)](https://solved.ac/gustn05233)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jung-HyeonSu&show_icons=true&theme=transparent)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jung-HyeonSu&show_icons=true&theme=transparent) -->
  </div>
