@@ -1,8 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8c6f5,100:2e82ef&height=120&text=Hyeonsu's%20Github🌞&animation=fadeIn&fontColor=5c90c7&fontSize=50" />
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jung-Hyeonsu&label=PROFILE+VIEWS" alt="Jung-Hyeonsu"> 
-
 <div align="center">
  
 ### :computer: Tech Stack
@@ -38,5 +36,6 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gustn05233)](https://solved.ac/gustn05233)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jung-Hyeonsu&label=PROFILE+VIEWS" alt="Jung-Hyeonsu"> 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jung-HyeonSu&show_icons=true&theme=transparent) -->
  </div>
