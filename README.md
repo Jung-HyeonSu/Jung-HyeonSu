@@ -2,8 +2,12 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8c6f5,100:2e82ef&height=120&text=Hyeonsu's%20Github🌞&animation=fadeIn&fontColor=5c90c7&fontSize=50" />
 </div>
 <div align="center">
- 
-### :computer: Tech Stack
+<img src="https://komarev.com/ghpvc/?username=Jung-Hyeonsu&label=PROFILE+VIEWS" alt="Jung-Hyeonsu"> 
+</div>
+
+---
+
+### 💻 Tech Stack
  
 **Front End** </br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,6 +40,9 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gustn05233)](https://solved.ac/gustn05233)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jung-Hyeonsu&label=PROFILE+VIEWS" alt="Jung-Hyeonsu"> 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jung-HyeonSu&show_icons=true&theme=transparent) -->
- </div>
+---
+
+### 📝 Recent Development Log
+<a href="https://velog.io/@hyeonsu"><img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+
+<img src="https://velog-readme-stats.vercel.app/api?name=hyeonsu"/>
