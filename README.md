@@ -4,7 +4,7 @@
 
 <br/>
 
-## 요즘 관심사
+## Interests
  
 <h4>백엔드 성능</h4>
 <p>대량의 요청이 몰릴 때 <b>병목이 어디에 생기는지</b> 찾고, 구조로 푸는 일에 관심이 많습니다.<br/>
@@ -19,7 +19,7 @@
 결과는 정적 검증과 테스트로 먼저 걸러 사람이 검토할 부분을 줄이는 방식으로 업무를 진행하고 있습니다.</p>
 <br/>
 
-## 기술 스택
+## Tech Stack
 
 **업무에서 쓰는 것**
  
@@ -60,7 +60,15 @@
 <a href="https://solved.ac/gustn05233"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gustn05233" alt="Solved.ac프로필" /></a>
 <br/>
 
-## 최근 글
+## Certificates
+
+- <sub><b>정보처리기사</b> · 2023.06</sub>
+- <sub><b>데이터분석준전문가</b> · 2025.09</sub>
+- <sub><b>컴퓨터활용능력1급</b> · 2023.02</sub>
+
+<br/>
+
+## Recent Posts
 
 [![velog](https://velo-card.profilecard.workers.dev/api?name=hyeonsu&layout=thumbnail&theme=tokyonight&count=2&width=600&scale=0.85&tags=Java%2CAI%2Carchitecture&bg_color=ffffff&hide_follow=true)](https://velog.io/@hyeonsu)
 
